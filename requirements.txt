@@ -1,0 +1,5 @@
+Flask
+flask-cors
+pydicom
+Pillow
+numpy
