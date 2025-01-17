@@ -57,3 +57,10 @@ Access the Application:
 
 Frontend: http://localhost:3000
 Backend: http://localhost:5000 (if backend is implemented and included in docker-compose.yml)
+Tech Stack
+Frontend Framework: React.js
+Styling: Tailwind CSS
+Component Library: NaiveUI
+Image Manipulation: Konva.js
+DICOM Support: react-dicom-viewer
+Containerization: Docker
